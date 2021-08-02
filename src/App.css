@@ -23,8 +23,8 @@
 }
 
 .light text{
-color:'#fff';
-background:'yellow'
+  color:'#fff';
+  background:'yellow'
 }
 
 @media (prefers-reduced-motion: no-preference) {
